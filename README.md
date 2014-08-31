@@ -5,7 +5,7 @@ Swift library for persistent storage on iOS and OS X
 
 What is this?
 -------------
-A helper for easily accessing persistently stored data using a shared Singleton written in Swift. Use it for any kind of data.
+A helper for easily accessing persistently stored data using a shared Singleton written in Swift. Use it for any kind of data. Check out the [test project][3] for more details on usage.
 
 Installation 
 -----------------
@@ -27,5 +27,5 @@ pod 'swift-persist', '~> 0.1'
 
   [1]: http://cocoapods.org
   [2]:https://github.com/vasarhelyia/swift-persist/blob/master/PersistentStorage.swift
-
+  [3]:https://github.com/vasarhelyia/swift-persist/tree/master/SwiftStorageTest
 
