@@ -10,8 +10,10 @@ A helper for easily accessing persistently stored data using a shared Singleton 
 Installation 
 -----------------
 Possible ways of installation to your project:
-	- using [Cocapods][1]
-	- copy the [PersistentStorage][2] class directly to your project
+
+ - using [Cocapods][1]
+
+ - copy the [PersistentStorage][2] class directly to your project
 	
 ###Podfile###
 
