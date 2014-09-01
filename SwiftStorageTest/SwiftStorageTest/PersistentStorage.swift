@@ -75,7 +75,7 @@ class PersistentStorage : NSObject {
         
         let userDefaults = NSUserDefaults.standardUserDefaults()
         let storageData = NSMutableData()
-        let archiver = NSKeyedArchiver(forWritingWithMutableData: storageData);
+        let archiver = NSKeyedArchiver(forWritingWithMutableData: storageData)
         
         archiver.encodeObject(Instance)
         archiver.finishEncoding()
