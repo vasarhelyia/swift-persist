@@ -11,7 +11,7 @@ Installation
 -----------------
 Possible ways of installation to your project:
 
- - using [Cocapods][1]
+ - using [Cocapods][1] (not there yet, see https://github.com/CocoaPods/CocoaPods/issues/2272)
 
  - copy the [PersistentStorage][2] class directly to your project
 	
