@@ -11,7 +11,7 @@ Installation
 -----------------
 Possible ways of installation to your project:
 
- - using [Cocapods][1] (not there yet, see https://github.com/CocoaPods/CocoaPods/issues/2272)
+ - using [Cocapods][1] (works with CocoaPods 0.36 or newer)
 
  - copy the [PersistentStorage][2] class directly to your project
 	
@@ -27,7 +27,7 @@ pod 'swift-persist', '~> 0.1'
  - iOS >= 7.0 (iOS 8 compatible)
  - written in Swift
 
-  [1]: http://cocoapods.org
+  [1]:http://cocoapods.org
   [2]:https://github.com/vasarhelyia/swift-persist/blob/master/PersistentStorage.swift
   [3]:https://github.com/vasarhelyia/swift-persist/tree/master/SwiftStorageTest
 
