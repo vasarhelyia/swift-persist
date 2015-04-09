@@ -44,7 +44,7 @@ class PersistentStorage : NSObject {
         let userDefaults = NSUserDefaults.standardUserDefaults()
         if let storageData = userDefaults.dataForKey(StorageName) {
             let unarchiver = NSKeyedUnarchiver(forReadingWithData: storageData)
-            Instance = unarchiver.decodeObject() as PersistentStorage
+            Instance = unarchiver.decodeObject() as! PersistentStorage
         } else {
             Instance = PersistentStorage()
         }
