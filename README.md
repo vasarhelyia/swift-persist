@@ -24,8 +24,8 @@ pod 'swift-persist', '~> 0.1'
 ###Used technologies###
 -----------------
 
- - iOS >= 7.0 (iOS 8 compatible)
- - written in Swift
+ - iOS >= 7.0
+ - swift
 
   [1]:http://cocoapods.org
   [2]:https://github.com/vasarhelyia/swift-persist/blob/master/PersistentStorage.swift
