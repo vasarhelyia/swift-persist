@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6A7A697E-6046-4B36-8EB6-367E882BD792</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwiftStorageTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E44E595A971C624B78033F7735709D8F9314DAF3</key>
+		<string>github.com:vasarhelyia/swift-persist.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwiftStorageTest/SwiftStorageTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E44E595A971C624B78033F7735709D8F9314DAF3</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:vasarhelyia/swift-persist.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E44E595A971C624B78033F7735709D8F9314DAF3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E44E595A971C624B78033F7735709D8F9314DAF3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>swift-persist</string>
+		</dict>
+	</array>
+</dict>
+</plist>

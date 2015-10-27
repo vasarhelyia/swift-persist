@@ -8,13 +8,12 @@
 
 import UIKit
 import XCTest
+@testable import SwiftStorageTest
 
 class SwiftStorageTestTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
-        
-        PersistentStorage()
     }
     
     override func tearDown() {
