@@ -157,6 +157,7 @@
 		6936E51219B318240050023D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0600;
 				ORGANIZATIONNAME = "Ágnes Vásárhelyi";
 				TargetAttributes = {
@@ -404,6 +405,7 @@
 				6936E53819B318240050023D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6936E53919B318240050023D /* Build configuration list for PBXNativeTarget "SwiftStorageTestTests" */ = {
 			isa = XCConfigurationList;
@@ -412,6 +414,7 @@
 				6936E53B19B318240050023D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
