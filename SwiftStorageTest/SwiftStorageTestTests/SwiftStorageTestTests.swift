@@ -23,7 +23,7 @@ class SwiftStorageTestTests: XCTestCase {
     }
     
     func testSavingUserName() {
-        var testName = "My favorite user"
+        let testName = "My favorite user"
         PersistentStorage.sharedInstance.userName = testName
        
         XCTAssertNotNil(PersistentStorage.sharedInstance.userName)
@@ -31,7 +31,7 @@ class SwiftStorageTestTests: XCTestCase {
     }
     
     func testSavingNumberOfAppLaunches() {
-        var originalNumberOfAppLaunches = PersistentStorage.sharedInstance.numberOfAppLaunches
+        let originalNumberOfAppLaunches = PersistentStorage.sharedInstance.numberOfAppLaunches
         PersistentStorage.sharedInstance.numberOfAppLaunches++
         
         XCTAssertEqual(PersistentStorage.sharedInstance.numberOfAppLaunches, originalNumberOfAppLaunches + 1, "Saving numberOfAppLaunches property succeeded")

@@ -23,7 +23,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             PersistentStorage.sharedInstance.userName = "My favorite user"
         }
         
-        println("\(PersistentStorage.sharedInstance.userName) launched my app for the \(PersistentStorage.sharedInstance.numberOfAppLaunches). time")
+        print("\(PersistentStorage.sharedInstance.userName) launched my app for the \(PersistentStorage.sharedInstance.numberOfAppLaunches). time")
        
         return true
     }
