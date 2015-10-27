@@ -18,14 +18,13 @@ Possible ways of installation to your project:
 ###Podfile###
 
 ```
-pod 'swift-persist', '~> 0.1'
+pod 'swift-persist', '~> 1.0.0'
 ```
 
 ###Used technologies###
 -----------------
 
- - iOS >= 7.0
- - swift
+ - Swift 2.1
 
   [1]:http://cocoapods.org
   [2]:https://github.com/vasarhelyia/swift-persist/blob/master/PersistentStorage.swift
